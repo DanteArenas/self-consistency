@@ -30,10 +30,6 @@ source .venv/bin/activate
 python src/self_consistency/basic_example.py
 ```
 
-Si conservas el entorno anterior, activa `.venv-vllm/bin/activate` en su lugar.
-Consulta [el registro del entorno](docs/ENTORNO_LOCAL.md) para detalles de
-instalación y hardware. Todavía no hay un archivo de dependencias fijadas.
-
 ## Parámetros y salidas
 
 - Contexto máximo: 1024 tokens entre entrada y salida.
