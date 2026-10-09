@@ -62,8 +62,7 @@ presupuesto 0.75 y contexto 1024, y se agregaron `max_num_seqs=1`,
 
 Se revisaron las salidas de las tres preguntas en inglés: 9 manzanas, x = 5 y
 8 dólares de cambio, todas completas y correctas. El ejemplo guarda texto y
-Markdown junto al script, sobrescribiéndolos en cada ejecución. Estas salidas
-se incluyen en Git para compartir los resultados con el profesor.
+Markdown junto al script, sobrescribiéndolos en cada ejecución.
 
 Se proporcionaron instrucciones para recrear el entorno como `.venv` con
 Python 3.12. No se ha confirmado aquí qué nombre se conserva actualmente ni

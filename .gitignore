@@ -219,9 +219,3 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-
-# Descargas y artefactos de experimentos locales
-/data/raw/
-/data/processed/
-/models/
-/results/runs/
