@@ -153,6 +153,7 @@ activemq-data/
 .env
 .envrc
 .venv
+.venv/
 env/
 venv/
 ENV/
@@ -218,3 +219,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Descargas y artefactos de experimentos locales
+/data/raw/
+/data/processed/
+/models/
+/results/runs/
+/src/self_consistency/basic_example_output.txt
+/src/self_consistency/basic_example_output.md
