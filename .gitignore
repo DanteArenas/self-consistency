@@ -225,5 +225,3 @@ __marimo__/
 /data/processed/
 /models/
 /results/runs/
-/src/self_consistency/basic_example_output.txt
-/src/self_consistency/basic_example_output.md

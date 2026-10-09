@@ -39,7 +39,8 @@ python src/self_consistency/basic_example.py
 
 El script imprime las respuestas y guarda `basic_example_output.txt` y
 `basic_example_output.md` junto al script, sobrescribiéndolos en cada ejecución.
-Estas salidas locales se excluyen de Git. El Markdown conserva LaTeX y puede
+Estas salidas se incluyen en Git para mostrar los resultados de la prueba.
+El Markdown conserva LaTeX y puede
 previsualizarse con Markdown Preview Enhanced.
 
 ## Siguiente paso
